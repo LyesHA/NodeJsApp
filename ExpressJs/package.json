@@ -1,0 +1,14 @@
+{
+    "name": "my-appintrotonode",
+    "version": "0.1.0",
+    "dependencies": {
+        "body-parser": "^1.10.2",
+        "cookie-session": "~1.1.0",
+        "ejs": "~2.1.4",
+        "express": "~4.11.0",
+        "socket.io": "^2.2.0",
+        "ent": "~0.1.0"
+    },
+    "author": "Lyes <Lyesha526@email.com>",
+    "description": "To do list app : Un gestionnaire de todolist ultra basique"
+}
